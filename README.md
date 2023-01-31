@@ -8,7 +8,7 @@ I create Discordbot and Websites!
 
 [Paradox](https://discord.gg/ch4nge) - My Discord server
 
-[@Rumty](https://twitter.com/@Rumty_zZ) - My Twitter account
+[@Rumty_zZ](https://twitter.com/@Rumty_zZ) - My Twitter account
 
 ## 🌟 Status 🌟
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rumty&layout=compact&theme=tokyonight)
