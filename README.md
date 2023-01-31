@@ -1,4 +1,4 @@
-### 🌟 About me 🌟
+## 🌟 About me 🌟
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rumty&layout=compact&theme=tokyonight)
 
