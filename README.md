@@ -17,14 +17,10 @@ I create Discordbot and Websites!
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rumty&theme=github_dark)
 
 ## 🌟 Language 🌟
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
-</p>
+![](https://img.shields.io/badge/Python-E34F26?style=flat&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 🌟 Editor 🌟
-<p>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" />
-
-</p>
+![](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=flat?labelColor=black&logo=visual-studio-code)
+![](https://img.shields.io/badge/Replit-9c9c9c?labelColor=black&logo=replit)
