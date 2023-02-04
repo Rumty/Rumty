@@ -16,11 +16,15 @@ I create Discordbot and Websites!
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rumty&theme=github_dark)
 
-## 🌟 Language 🌟
+## 🌟 Languages 🌟
 ![](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-## 🌟 Editor 🌟
+## 🌟 Editors 🌟
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=flat?labelColor=black&logo=visual-studio-code)
 ![](https://img.shields.io/badge/Replit-9c9c9c?labelColor=black&logo=replit)
+
+## 🌟 OS 🌟
+![](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
+![](https://img.shields.io/badge/Windows-00a4ef?labelColor=black&logo=windows)
