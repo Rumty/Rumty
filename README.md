@@ -26,5 +26,5 @@ I create Discordbot and Websites!
 ![](https://img.shields.io/badge/Replit-9c9c9c?labelColor=black&logo=replit)
 
 ## 🌟 OS 🌟
-![](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
+![](https://img.shields.io/badge/-Apple-999999.svg?logo=apple&style=plastic)
 ![](https://img.shields.io/badge/Windows-00a4ef?labelColor=black&logo=windows)
