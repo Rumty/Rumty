@@ -22,9 +22,9 @@ I create Discordbot and Websites!
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 🌟 Editors 🌟
-![](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=plasticlabelColor=black&logo=visual-studio-code)
-![](https://img.shields.io/badge/Replit-9c9c9c?labelColor=black&logo=replit&style=plastic)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=flatlabelColor=black&logo=visual-studio-code)
+![](https://img.shields.io/badge/Replit-9c9c9c?labelColor=black&logo=replit&style=flat)
 
 ## 🌟 OS 🌟
 ![](https://img.shields.io/badge/-Apple-999999.svg?logo=apple&style=plastic)
-![](https://img.shields.io/badge/Windows-00a4ef?labelColor=black&logo=windows&style=plastic)
+![](https://img.shields.io/badge/Windows-00a4ef?labelColor=black&logo=windows&style=flat)
