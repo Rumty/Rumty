@@ -11,7 +11,7 @@ I create Discordbot and Websites!
 [@Rumty_zZ](https://twitter.com/@Rumty_zZ) - My Twitter account
 
 ## 🌟 Status 🌟
-![trophy](https://github-profile-trophy.vercel.app/?username=Rumty&theme=tokyonight&no-bg=true&no-frame=true&margin-w=5&margin-h=5&title=MultipleLang,Commits,PullRequest,Repositories,Issues,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Rumty&theme=tokyonight&no-bg=true&no-frame=true&margin-w=5&margin-h=5&title=MultipleLang,Commits,PullRequest,Repositories,Issues,Followers)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Rumty&theme=tokyonight&hide_border=true&border_radius=15&date_format=%5BY.%5Dn.j&background=22272E&stroke=5865F2&ring=5865F2&fire=5865F2&currStreakNum=57F287&sideNums=ADBAC7&currStreakLabel=ADBAC7&sideLabels=ADBAC7&dates=ADBAC7)
 
