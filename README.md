@@ -14,3 +14,5 @@ I create Discordbot and Websites!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rumty&layout=compact&theme=tokyonight)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rumty&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rumty&theme=github_dark)
