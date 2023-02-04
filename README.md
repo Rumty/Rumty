@@ -17,7 +17,7 @@ I create Discordbot and Websites!
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rumty&theme=github_dark)
 
 ## 🌟 Language 🌟
-![](https://img.shields.io/badge/Python-E34F26?style=flat&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
