@@ -35,4 +35,4 @@ I create Discordbot and Websites!
 ![](https://img.shields.io/badge/Windows-00a4ef?logo=windows&style=flat)
 
 ## 🌟 My Discord account 🌟
-[![My Discord](https://discord.c99.nl/widget/theme-2/691137657484476466.png)
+![My Discord](https://discord.c99.nl/widget/theme-1/691137657484476466.png)
