@@ -11,15 +11,15 @@ I create Discordbot and Websites!
 [@Rumty_zZ](https://twitter.com/@Rumty_zZ) - My Twitter account
 
 ## 🌟 Status 🌟
-![trophy](https://github-profile-trophy.vercel.app/?username=Rumty&theme=tokyonight&no-bg=true&no-frame=true&margin-w=5&margin-h=5&title=MultipleLang,Commits,PullRequest,Repositories,Issues,Followers)
+![trophy](https://github-profile-trophy.vercel.app/?username=Tukinose&theme=tokyonight&no-bg=true&no-frame=true&margin-w=5&margin-h=5&title=MultipleLang,Commits,PullRequest,Repositories,Issues,Followers)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Rumty&theme=tokyonight&hide_border=true&border_radius=15&date_format=%5BY.%5Dn.j&background=22272E&stroke=5865F2&ring=5865F2&fire=5865F2&currStreakNum=57F287&sideNums=ADBAC7&currStreakLabel=ADBAC7&sideLabels=ADBAC7&dates=ADBAC7)
+![GitHub Streak](https://streak-stats.demolab.com?user=Tukinose&theme=tokyonight&hide_border=true&border_radius=15&date_format=%5BY.%5Dn.j&background=22272E&stroke=5865F2&ring=5865F2&fire=5865F2&currStreakNum=57F287&sideNums=ADBAC7&currStreakLabel=ADBAC7&sideLabels=ADBAC7&dates=ADBAC7)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rumty&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tukinose&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rumty&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tukinose&layout=compact&theme=tokyonight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rumty&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tukinose&theme=github_dark)
 
 ## 🌟 Languages 🌟
 ![](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
