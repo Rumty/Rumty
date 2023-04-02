@@ -1,6 +1,6 @@
 ## 🌟 About me 🌟
 
-👻 < Hi, my name is Rumty!
+👻 < Hi, my name is Tukinose!
 I create Discordbot and Websites!
 
 ## 🌟 Contact 🌟
