@@ -6,7 +6,7 @@ I create Discordbot and Websites!
 ## 🌟 Contact 🌟
 [Rumty#7777](https://discordapp.com/users/691137657484476466) - My Discord account
 
-[Paradox](https://discord.gg/eMTyW8GP4g) - My Discord server
+[Rumty's house](https://discord.gg/eMTyW8GP4g) - My Discord server
 
 [@Rumty_zZ](https://twitter.com/@Rumty_zZ) - My Twitter account
 
