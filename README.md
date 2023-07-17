@@ -33,6 +33,3 @@ I create Discordbot and Websites!
 ## 🌟 OS 🌟
 ![](https://img.shields.io/badge/-Apple-999999.svg?logo=apple&style=plastic)
 ![](https://img.shields.io/badge/Windows-00a4ef?logo=windows&style=flat)
-
-## 🌟 Discord 🌟
-![My Discord](https://discord.c99.nl/widget/theme-1/691137657484476466.png)
